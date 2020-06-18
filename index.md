@@ -10,3 +10,5 @@ Mein Charakter ist ist ein kleiner charakter mit großem Herz und und kurzen Fü
 
 > Ich will nicht aufstehen
 
+<img src="https://ux4.edvschule-plattling.de/m/b.png" alt="oje" />
+
